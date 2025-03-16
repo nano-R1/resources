@@ -2,31 +2,32 @@
 
 **WIP**
 
-## papers
+## Papers
 
-see [papers.md](papers.md)
+See [papers.md](papers.md)
 
 ## blogs
 
-see [blogs.md](blogs.md)
+See [blogs.md](blogs.md)
 
-## benchmarks
+## Benchmarks
 
-see [benchmarks.md](blogs.md)
+See [benchmarks.md](blogs.md)
 
-## implementations
+## Implementations
 
+See [implementations.md](implementations.md)
 
-see [implementations.md](implementations.md)
+## Open questions
 
-## open questions
+See [questions.md](questions.md)
 
+## Proposal
 
-see [questions.md](questions.md)
-
+See [proposal.md](proposal.md)
 
 ## nano-R1 TODOs
 
-see [planning.md](planning.md)
+See [planning.md](planning.md)
 
 

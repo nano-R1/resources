@@ -1,5 +1,4 @@
-# Reasoning Datasets + Benchmarks
-
+# Reasoning Datasets and Benchmarks
 
 ## Canonical Benchmarks
 
@@ -20,6 +19,7 @@
 
 ## Programmatically-Generated
 
+- Tic Tac Toe
 - reasoning-gym
 - text-arena
 - Sudoku

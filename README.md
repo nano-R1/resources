@@ -2,9 +2,12 @@
 
 ## Books, blogs, and papers
 
-See [blogs.md](blogs.md) and [papers.md](papers.md)
+See:
+- [books.md](books.md) (books + tutorials)
+- [blogs.md](blogs.md)
+- [papers.md](papers.md)
 
-## Datasets + benchmarks
+## Datasets and benchmarks
 
 See [datasets.md](datasets.md)
 

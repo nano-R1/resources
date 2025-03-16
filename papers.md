@@ -2,6 +2,8 @@
 
 **WIP**
 
+Lots here: [awesome-RLHF](https://github.com/opendilab/awesome-RLHF)
+
 ## GRPO
 
 - DeepSeekMath

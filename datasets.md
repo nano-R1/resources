@@ -8,6 +8,10 @@
 
 ### Logic and Reasoning
 
+**ARC-AGI**
+- [GitHub repo](https://github.com/fchollet/ARC-AGI)
+- [arcprize.org](https://arcprize.org/arc)
+
 ### Knowledge
 
 ### Agentic Tasks

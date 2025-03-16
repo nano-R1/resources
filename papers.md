@@ -12,6 +12,7 @@ Lots here: [awesome-RLHF](https://github.com/opendilab/awesome-RLHF)
 - DeepSeek-R1
 - SWE-RL
 - AlphaMaze
+- [R1-Searcher](https://arxiv.org/pdf/2503.05592)
 - What is the Alignment Objective of GRPO?
 - GRPO for Image Captioning
 

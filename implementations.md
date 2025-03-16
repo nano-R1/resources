@@ -5,27 +5,38 @@
 - [TRL](https://github.com/huggingface/trl/tree/main/trl)
     - Algorithms: PPO, GRPO, KTO, RLOO, (O)DPO, XPO, others
     - Backends: DDP, accelerate (FSDP, DeepSpeed ZeRO 1/2/3)
-    - Inference: Transformers, vLLM
+    - Inference: transformers, vLLM
 - [axolotl](https://github.com/axolotl-ai-cloud/axolotl)
     - Algorithms: same as TRL
     - Backends: accelerate, FSDP + QLoRA, Ray
 - [Unsloth](https://github.com/unslothai/unsloth)
     - Algorithms: same as TRL
-    - Backend: custom (single-GPU PEFT, memory-optimized)
+    - Backends: custom (single-GPU PEFT, memory-optimized)
+- [LlamaGym](https://github.com/KhoomeiK/LlamaGym)
+    - Algorithms: PPO (multi-turn)
+    - Inference: transformers
 - [verifiers](https://github.com/willccbb/verifiers)
     - Algorithms: GRPO (multi-turn)
-    - Backends: DDP, accelerate (FSDP, DeepSpeed ZeRO 1/2/3)
     - Inference: vLLM
 - [groundlight/r1-vlm](https://github.com/groundlight/r1_vlm)
-    - Algorithms: GRPO: (multimodal)
+    - Algorithms: GRPO (multimodal)
+    - Inference: vLLM
 
 **veRL-based:**
 - [veRL](https://github.com/volcengine/verl)
     - Algorithms: PPO, GRPO, PRIME
     - Backends: FSDP, Megatron-LM
-- [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-- [Search-R1](https://github.com/PeterGriffinJin/Search-R1)
+    - Inference: transformers, vLLM, SGLang ([open PR](https://github.com/volcengine/verl/pull/490))
+- [RAGEN](https://github.com/ZihanWang314/RAGEN)
+    - Algorithms: PPO + RICO (multi-turn)
 - [PRIME](https://github.com/PRIME-RL/PRIME)
+
+**OpenRLHF-based:**
+- [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+    - Algorithms: PPO, GRPO, DPO, KTO, RLOO, REINFORCE++
+    - Backends: Ray 
+    - Inference: vLLM
+- [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
 
 **torchtune-based:**
 - [torchtune](https://github.com/pytorch/torchtune)
@@ -36,12 +47,13 @@
 
 **torch (standalone)**
 - [oat](https://github.com/sail-sg/oat/tree/main)
-
-- [open-instruct](https://github.com/allenai/open-instruct)
-- [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
-    - Algorithms: PPO, GRPO, DPO, KTO, RLOO, REINFORCE++
+- [allenai/open-instruct](https://github.com/allenai/open-instruct)
 - [VinePPO/treetune](https://github.com/McGill-NLP/VinePPO)
     - Algorithms: PPO, DPO, VinePPO, RestEM
+- [Lamorel](https://github.com/flowersteam/lamorel/tree/main)
+    - Algorithms: PPO
+    - Backends: accelerate
+    - Inference: transformers
 
 **MLX**
 - [mlx-lm](https://github.com/ml-explore/mlx-examples/blob/main/llms/README.md)
@@ -55,7 +67,6 @@
 
 **Jax/Flax**
 - [JAX-PPO](https://github.com/zombie-einstein/JAX-PPO)
-    - Note: tabula rasa / non-LLM
 
 **MLX**
 - [clean-rl-mlx](https://github.com/andrew-silva/clean-rl-mlx)

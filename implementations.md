@@ -12,6 +12,9 @@
 - [Unsloth](https://github.com/unslothai/unsloth)
     - Algorithms: same as TRL
     - Backends: custom (single-GPU PEFT, memory-optimized)
+- [rStar](https://github.com/microsoft/rStar)
+    - Algorithms: rStar
+    - Inference: vLLM
 - [LlamaGym](https://github.com/KhoomeiK/LlamaGym)
     - Algorithms: PPO (multi-turn)
     - Inference: transformers
@@ -30,6 +33,7 @@
 - [RAGEN](https://github.com/ZihanWang314/RAGEN)
     - Algorithms: PPO + RICO (multi-turn)
 - [PRIME](https://github.com/PRIME-RL/PRIME)
+    - Algorithms: PRIME
 
 **OpenRLHF-based:**
 - [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
@@ -37,6 +41,9 @@
     - Backends: Ray 
     - Inference: vLLM
 - [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
+    - Algorithms: PPO
+- [R1-Searcher](https://github.com/RUCAIBox/R1-Searcher)
+    - Algorithms: REINFORCE++
 
 **torchtune-based:**
 - [torchtune](https://github.com/pytorch/torchtune)
@@ -47,18 +54,25 @@
 
 **torch (standalone)**
 - [oat](https://github.com/sail-sg/oat/tree/main)
+    - Algorithms: PPO, (O)DPO, XPO
+    - Backends: accelerate (DeepSpeed)
+    - Inference: vLLM + Mosec
 - [allenai/open-instruct](https://github.com/allenai/open-instruct)
+    - Algorithms: PPO, DPO, GRPO
+    - Backends: accelerate
+    - Inference: vLLM
 - [VinePPO/treetune](https://github.com/McGill-NLP/VinePPO)
     - Algorithms: PPO, DPO, VinePPO, RestEM
 - [Lamorel](https://github.com/flowersteam/lamorel/tree/main)
     - Algorithms: PPO
     - Backends: accelerate
     - Inference: transformers
+- [ReMax](https://github.com/liziniu/ReMax)
+    - Algorithms: ReMax
 
 **MLX**
 - [mlx-lm](https://github.com/ml-explore/mlx-examples/blob/main/llms/README.md)
     - Algorithms: DPO ([open PR](https://github.com/ml-explore/mlx-examples/pull/1279))
-
 
 **Jax/Flax**
 - Nothing?

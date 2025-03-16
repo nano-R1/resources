@@ -1,6 +1,6 @@
 # nano-R1 resources
 
-## Blogs + papers
+## Books, blogs, and papers
 
 See [blogs.md](blogs.md) and [papers.md](papers.md)
 
@@ -16,7 +16,7 @@ See [implementations.md](implementations.md)
 
 See [questions.md](questions.md)
 
-## Planning + todos
+## Planning
 
 See [planning.md](planning.md)
 

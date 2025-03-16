@@ -17,7 +17,7 @@ GRPO Judge Experiments: Findings & Empirical Observations
 Train your own R1 reasoning model
 - Authors: Daniel + Michael (Unsloth)
 - Date: 2/6/2025
-- Post: (unsloth.ai)[https://unsloth.ai/blog/r1-reasoning]
+- Post: [unsloth.ai](https://unsloth.ai/blog/r1-reasoning)
 
 ## GRPO Intuitions
 

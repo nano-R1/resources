@@ -25,3 +25,12 @@ Why does GRPO work?
 - Author: [kalomaze](https://x.com/kalomaze)
 - Date: 2/27/2025
 - Post: [kalomaze.bearblog.dev](https://kalomaze.bearblog.dev/why-does-grpo-work/)
+
+
+## PPO vs. DPO
+
+RLHF roundup: Getting good at PPO, sketching RLHF’s impact, RewardBench retrospective, and a reward model competition
+- Author: [Nathan Lambert](https://x.com/natolambert)
+
+- Date: 6/26/24
+- Post: [interconnects.ai](https://www.interconnects.ai/p/rlhf-roundup-2024)

@@ -24,6 +24,9 @@
 - [groundlight/r1-vlm](https://github.com/groundlight/r1_vlm)
     - Algorithms: GRPO (multimodal)
     - Inference: vLLM
+- [VLM-R1](https://github.com/om-ai-lab/VLM-R1)
+    - Algorithms: GRPO (multimodal)
+    - Inference: transformers, vLLM
 
 **veRL-based:**
 - [veRL](https://github.com/volcengine/verl)
@@ -75,7 +78,10 @@
     - Algorithms: DPO ([open PR](https://github.com/ml-explore/mlx-examples/pull/1279))
 
 **Jax/Flax**
-- Nothing?
+- [EasyDeL](https://github.com/erfanzar/EasyDeL)
+    - Algorithms: GRPO, DPO, ORPO
+    - Backends: Triton, XLA, Pallas
+    - Inference: vInference
 
 ## Deep RL Repos (non-LLM)
 

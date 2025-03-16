@@ -2,17 +2,14 @@
 
 **WIP**
 
-## Papers
 
-See [papers.md](papers.md)
+## Blogs + papers
 
-## blogs
+See [blogs.md](blogs.md) and [papers.md](papers.md)
 
-See [blogs.md](blogs.md)
+## Datasets + benchmarks
 
-## Benchmarks
-
-See [benchmarks.md](blogs.md)
+See [datasets.md](datasets.md)
 
 ## Implementations
 
@@ -22,12 +19,13 @@ See [implementations.md](implementations.md)
 
 See [questions.md](questions.md)
 
+## Planning + todos
+
+See [planning.md](planning.md)
+
 ## Proposal
 
 See [proposal.md](proposal.md)
 
-## nano-R1 TODOs
-
-See [planning.md](planning.md)
 
 

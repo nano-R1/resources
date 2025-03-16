@@ -8,7 +8,7 @@
     - Inference: Transformers, vLLM
 - [axolotl](https://github.com/axolotl-ai-cloud/axolotl)
     - Algorithms: same as TRL
-    - Backends: same as TRL
+    - Backends: accelerate, FSDP + QLoRA, Ray
 - [Unsloth](https://github.com/unslothai/unsloth)
     - Algorithms: same as TRL
     - Backend: custom (single-GPU PEFT, memory-optimized)
@@ -27,6 +27,7 @@
 
 **torchtune-based:**
 - [torchtune](https://github.com/pytorch/torchtune)
+    - Algorithms: DPO, PPO, GRPO
 - [OpenPipe deductive-reasoning](https://github.com/OpenPipe/deductive-reasoning)
 
 **torch (standalone)**

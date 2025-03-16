@@ -1,8 +1,5 @@
 # nano-R1 resources
 
-**WIP**
-
-
 ## Blogs + papers
 
 See [blogs.md](blogs.md) and [papers.md](papers.md)

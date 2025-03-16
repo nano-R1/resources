@@ -4,7 +4,7 @@
 
 ## papers
 
-see [papers.md]()
+see [papers.md](papers.md)
 
 ## blogs
 
